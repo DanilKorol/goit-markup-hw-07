@@ -1,0 +1,17 @@
+.logo {
+    color: var(--accent-cl);
+    font-family: var(--secondary-font);
+    font-weight: 700;
+    line-height: 1.19;
+    font-size: 26px;
+    letter-spacing: 0.03em;
+
+    &__text--upper {
+            color: #000000;
+        }
+    
+    &__text--lower {
+            color: var(--white-text-cl);
+        }
+}
+
