@@ -108,6 +108,7 @@ img {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  margin-bottom: 50px;
 }
 
 .title {
@@ -708,15 +709,9 @@ img {
 .work__list {
   --card-item: 3;
 }
-.work__section-title {
-  margin-bottom: 50px;
-}
 
 .team {
   background-color: var(--grey-bg-cl);
-}
-.team__section-title {
-  margin-bottom: 50px;
 }
 .team__content {
   text-align: center;
@@ -741,9 +736,6 @@ img {
   margin-bottom: 16px;
 }
 
-.clients__section-title {
-  margin-bottom: 50px;
-}
 .clients__list {
   display: -webkit-box;
   display: -ms-flexbox;
